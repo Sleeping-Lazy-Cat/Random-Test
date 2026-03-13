@@ -1,2 +1,2 @@
-public class Instructor implements Programmer{
+public class Instructor implements Programmer {
 }

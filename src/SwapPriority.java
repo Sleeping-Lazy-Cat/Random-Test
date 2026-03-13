@@ -1,4 +1,4 @@
-public class SwapPriority implements Event{
+public class SwapPriority implements Event {
 
     @Override
     public String getDetails() {

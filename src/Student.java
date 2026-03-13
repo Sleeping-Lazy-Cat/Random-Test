@@ -6,6 +6,7 @@ public class Student implements Programmer {
         this.bars = bars;
     }
 
+
     public Student(int javaSkill, int vibe) {
         this.javaSkill = javaSkill;
         this.vibe = vibe;
