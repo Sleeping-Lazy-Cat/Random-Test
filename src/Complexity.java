@@ -1,6 +1,6 @@
 public enum Complexity {
     HARD,
     NORMAL,
-    EASY;
+    EASY
 
 }

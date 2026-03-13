@@ -1,4 +1,4 @@
-public class GetHw implements Event {
+public class Homework implements Event {
 
     @Override
     public String getDetails() {
@@ -9,7 +9,7 @@ public class GetHw implements Event {
     Complexity complexity;
     Student student;
 
-    public GetHw(Complexity complexity, Student student) {
+    public Homework(Complexity complexity, Student student) {
         this.complexity = complexity;
         this.student = student;
     }
